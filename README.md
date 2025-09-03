@@ -1,1 +1,2 @@
 # odin-recipes
+This project is the start of a new recipe website, featuring a variety of delicious recipes for different tastes. We will continuously improve the design as the site grows. Initially, building this website will require basic HTML skills, including how to create lists, structure content with headings, and use semantic tags.
